@@ -11,8 +11,8 @@ Python · NumPy · SciPy · scikit-learn · Astropy · Google Colab
 Currently learning: **Qiskit**
 
 ### 📂 Projects
-- **Galaxy morphology with SDSS**: Sérsic profile fitting and Gaussian
-  Mixture Model classification of galaxies *(coming soon)*
+- **[Galaxy populations in SDSS](https://github.com/flavia-angotti/sdss-galaxy-morphology)**:
+  Gaussian Mixture Model classification of ~850 galaxies by colour, Sérsic index and stellar mass
 
 ### 📫 Contact
 flaviaangotti.work@gmail.com
