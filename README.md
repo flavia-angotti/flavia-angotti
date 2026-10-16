@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Flavia 👋
 
-<!--
-**flavia-angotti/flavia-angotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student at the University of Milano-Bicocca, heading towards
+quantum engineering and computing.
 
-Here are some ideas to get you started:
+I'm interested in **quantum algorithms** and **data analysis**, with
+applications in finance, healthcare and environmental science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools
+Python · NumPy · SciPy · scikit-learn · Astropy · Google Colab  
+Currently learning: **Qiskit**
+
+### 📂 Projects
+- **Galaxy morphology with SDSS**: Sérsic profile fitting and Gaussian
+  Mixture Model classification of galaxies *(coming soon)*
+
+### 📫 Contact
+flaviaangotti.work@gmail.com
