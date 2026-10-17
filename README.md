@@ -7,8 +7,10 @@ I'm interested in **quantum algorithms** and **data analysis**, with
 applications in finance, healthcare and environmental science.
 
 ### 🔧 Tools
-Python · NumPy · SciPy · scikit-learn · Astropy · Google Colab  
-Currently learning: **Qiskit**
+**Languages & libraries:** Python · NumPy · SciPy · pandas · scikit-learn · Matplotlib · Astropy  
+**Environments:** Jupyter · Google Colab · VS Code · Git/GitHub  
+**Writing:** LaTeX (incl. TikZ)  
+**Currently learning:** Qiskit
 
 ### 📂 Projects
 - **[Galaxy populations in SDSS](https://github.com/flavia-angotti/sdss-galaxy-morphology)**:
